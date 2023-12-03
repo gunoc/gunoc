@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunoc&layout=compact&theme=blueberry"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunoc&hide=java,html&layout=compact&theme=blueberry"/>
